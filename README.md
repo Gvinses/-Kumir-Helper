@@ -21,7 +21,7 @@ VERSION: 1.0;
   5) Открыавете output.kum в кумире
      
 **Eng:**
--Kumir-Helper -> is a console program (translator) written in the Rust language, which was created to help people write code for 'Idol'.
+-Kumir-Helper -> is a console program (translator) written in the Rust language, which was created to help people write code for 'Kumir'.
   1) You write code in English in Notepad.
   2) Using the console you write the absolute path to the file (input and output (all files must be .kum))
   3) If necessary, set parameters for moveTo() and similar
