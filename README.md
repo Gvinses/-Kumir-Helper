@@ -1,5 +1,6 @@
 # -Kumir-Helper
 VERSION: 1.0;
+Если найдены ошибки/If errors found => Discord: gvinses; Telegramm: https://t.me/JustGVINS;
 
 
 **Syntax, Синтаксис:** 
