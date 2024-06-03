@@ -28,7 +28,17 @@ VERSION: 1.0;
   4) The code is “translated” from English into the language for the idol (from input to output)
   5) Open output.kum in idol
 
-**How to install?**
+**Ru How to install?**
+  1)  Нажми 'Code' в верхней части репозитория
+  2)  Нажми 'Download ZIP' и скачай в удобную для себя папку
+  3)  Распакуй в удобную для себя папку
+  4)  Запусти файл KumirHelper.exe
+     
+**End How to install?**
+  1) Click 'Code' at the top of the repository
+  2) Click 'Download ZIP' and download to a convenient folder
+  3) Unpack it into a folder convenient for you
+  4) Run the KumirHelper.exe file
 
 
 **Ru Tutorial:**
