@@ -3,14 +3,14 @@ VERSION: 1.0;
 
 
 What you can use to write programm: 
-     { english: "using (draftsman)" = russian: "использовать Чертежник"},
-     { english: "pen_down" = russian: "опустить перо"},
-     { english: "pen_up" = russian: "поднять перо"},
-     { english: "main" = russian: "алг" },
-     { english: "start" = russian: "нач" },
-     { english: "end" = russian: "кон" },
-     { english: "moveTo()" = russian: "сместиться в точку()" },
-     { english: "vectorTo()" = russian: "сместиться на вектор()" },
+     1) { english: "using (draftsman)" = russian: "использовать Чертежник"},
+     2) { english: "pen_down" = russian: "опустить перо"},
+     3) { english: "pen_up" = russian: "поднять перо"},
+     4) { english: "main" = russian: "алг" },
+     5) { english: "start" = russian: "нач" },
+     6) { english: "end" = russian: "кон" },
+     7) { english: "moveTo()" = russian: "сместиться в точку()" },
+     8) { english: "vectorTo()" = russian: "сместиться на вектор()" },
 
 Ru:
 -Kumir-Helper -> это консольная программа (транслятор) написанная на языке Rust, которая создана что-бы помогать людям писать код для 'Кумира'.
