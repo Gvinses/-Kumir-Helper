@@ -37,7 +37,7 @@ fn main() {
         Translation { english: "start", russian: "нач" },
         Translation { english: "end", russian: "кон" },
         Translation { english: "moveTo()", russian: "сместиться в точку" },
-        Translation { english: "vectorTo()", russian: "сместиться на вектор()" },
+        Translation { english: "vectorTo()", russian: "сместиться на вектор" },
     ];
 
     let mut translated_contents = String::with_capacity(contents.len());
