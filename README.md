@@ -28,6 +28,9 @@ VERSION: 1.0;
   4) The code is “translated” from English into the language for the idol (from input to output)
   5) Open output.kum in idol
 
+**How to install?**
+
+
 **Ru Tutorial:**
 
 Создайте два файла input (куда будете вводить код на английском) и output (куда будет транслироваться код) оба файла должны быть .kum формата.
