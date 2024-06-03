@@ -31,3 +31,6 @@ Eng:
 Tutorial:
 
 ![OpenFile](https://github.com/Gvinses/-Kumir-Helper/assets/158508670/c14cdcff-2489-4617-9854-3b382d8af488)
+
+![image](https://github.com/Gvinses/-Kumir-Helper/assets/158508670/bf9442cd-d457-4956-b2f4-c998e72cebc7)
+
