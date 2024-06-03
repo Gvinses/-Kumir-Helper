@@ -27,3 +27,7 @@ Eng:
   3) If necessary, set parameters for moveTo() and similar
   4) The code is “translated” from English into the language for the idol (from input to output)
   5) Open output.kum in idol
+
+Tutorial:
+
+![OpenFile](https://github.com/Gvinses/-Kumir-Helper/assets/158508670/c14cdcff-2489-4617-9854-3b382d8af488)
