@@ -2,7 +2,7 @@
 VERSION: 1.0;
 
 
-What you can use to write programm: 
+Syntax, Синтаксис: 
   1) { english: "using (draftsman)" = russian: "использовать Чертежник"},
   2) { english: "pen_down" = russian: "опустить перо"},
   3) { english: "pen_up" = russian: "поднять перо"},
